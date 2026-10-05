@@ -92,7 +92,7 @@ I'm working through the [CampusX 100 Days of Machine Learning](https://www.youtu
 ## 🧩 DSA & Problem Solving
 
 - Following **Striver's A2Z DSA Sheet** (Java)
-- LeetCode contest rating: **~1500+**
+- LeetCode contest rating: **~1650+**
 - Strong with Arrays, HashMaps, Stacks — working toward 150–300+ solved problems
 
 ---
